@@ -1,0 +1,90 @@
+
+html {
+	height: 100%;
+}
+
+body {
+	height:100%;
+	background-position:center center;
+	background-attachment:fixed;
+	background-size:cover;
+	font-family:roboto;
+	background-repeat: no-repeat;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container-fluid {
+
+  width: 100%;
+  min-height: 100%;
+}
+
+.input-group {
+	margin: 20px auto;
+    max-width: 400px;
+}
+
+.form-control {
+
+}
+
+.btn-secondary {
+    color: #fff;
+}
+
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus {
+    outline:none;
+}
+
+.card {
+    box-shadow: 0px 9px 0px 0px rgba(255, 255, 255, 0), 0px -9px 0px 0px rgba(255, 255, 255, 0), 10px 0px 30px 0px rgba(0, 0, 0, 0.15), -10px 0px 30px 0px rgba(0, 0, 0, 0.15);
+    position: relative;
+    margin: 15px auto;
+    padding: 20px;
+
+    font-size: 15px;
+    position: relative;
+
+    max-width: 400px;
+    min-height: 150px;
+    overflow: hidden;
+}
+
+.cityName {
+    text-align: center;
+    font-size: 2em;
+}
+
+.weatherIcon {
+    height: 90px;
+    margin-left: 30px;
+}
+
+.inThreeHours {
+    margin-top: 10px;
+    margin-left: 50px;
+    font-weight: 800;
+    font-size: 1.5em;
+}
+
+.list {
+    position: absolute;
+    top: 75px;
+    right: 50px;
+}
+
+.list-item {
+
+}
+
+.list-item span:first-child {
+    margin-right: 10px;
+}
