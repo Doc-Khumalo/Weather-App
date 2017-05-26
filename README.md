@@ -9,3 +9,10 @@ This is a quick mock up of a web-app to display dynamic context using Axios, a P
     cover test coverage
     explore how to display + 3 hour intervals
     isolate components for maintanance
+
+#Instructions:
+    
+    clone the repo
+    navigate to the root folder
+    npm install from that folder
+    npm start to view the app in http://localhost:8081/
